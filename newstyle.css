@@ -1,0 +1,82 @@
+.code{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 273px;
+    height: 370px;
+    border-radius: 15px;
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10%;
+    box-shadow: 5px 6px;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+  img{
+   
+    margin-top: 7px;
+    height:141%;
+    width: 94%;
+    bottom: 0%;
+    border-radius: 15px;
+}
+
+
+
+
+.Learning{
+margin-left: -200px;
+color:rgb(22, 22, 22);
+background-color:rgb(243,211,76);
+margin-top:9px;
+font-size: 12px;
+
+}
+.main{
+    margin-left: -101px;
+    margin-top: -8px;
+    width: 149px;
+    height: 263px;
+    opacity: 71%;
+    font-size: 12px;
+}
+
+.foundations {
+    margin-left: -73px;
+    margin-top: -79px;
+
+}
+.backbone
+{
+    width:253px;
+  opacity: 0.8;
+  margin-top:4;
+  font-size: 12px;
+}
+ .image-grid {
+    display:flex;
+ }
+
+.image1{
+    height:64%;
+    width: 19px;
+    margin-top: 6   %;
+margin-left:-58%;
+    float:left;
+    
+
+}
+.text{
+    margin-top:6%;
+    margin-left:10px;
+    float:right;
+    height: 25px;
+    font-size: 15px;
+}
+
+
+
+
